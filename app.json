@@ -21,14 +21,14 @@
       "value": ""
     },
     "PREFIX": {
-      "description": "prefix, check for more",
+      "description": ",",
       "required": false,
-      "value": "."
+      "value": ","
     },
     "SESSION_ID": {
-      "description": "session id",
+      "description": "levanter_1975de8e688e7a4b9d81b4324a9805695d",
       "required": true,
-      "value": ""
+      "value": "levanter_1975de8e688e7a4b9d81b4324a9805695d"
     },
     "STICKER_PACKNAME": {
       "description": "sticker pack info",
