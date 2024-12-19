@@ -1,9 +1,9 @@
 {
   "session1": {
-    "SESSION_ID": "levanter_sessionid",
-    "PREFIX": "^[.,!]",
-    "SUDO": "0",
-    "STICKER_PACKNAME": "❤️,LyFE",
+    "SESSION_ID": "levanter_1975de8e688e7a4b9d81b4324a9805695d",
+    "PREFIX": "^[,]",
+    "SUDO": "923247116683",
+    "STICKER_PACKNAME": "❤️,zidi",
     "ALWAYS_ONLINE": "false",
     "RMBG_KEY": "null",
     "WARN_LIMIT": "3",
@@ -30,7 +30,7 @@
     "BING_COOKIE": "",
     "GEMINI_API_KEY": "",
     "GROUP_ADMINS": "",
-    "CMD_REACTION": "true"
+    "CMD_REACTION": "false"
   },
   "session2": {
     "SESSION_ID": "levanter_sessionid",
